@@ -1,8 +1,11 @@
 These data sets consist of the acceleration signal recorded off of printed circuit boards (PCB) in a shock inviroenment. 
 
+CAD rendering of sample PCB
 ![image](https://user-images.githubusercontent.com/53347740/189551982-2880c2b0-cde4-4d1d-9f98-da5a05ef58a6.png)
 
-                              ![image](https://user-images.githubusercontent.com/53347740/189551960-ed8da511-f9c6-4c69-8110-0ee51430a90f.png)
+
+PCB mounted in shock test system with two accelerometers measuring impulse input along with the response
+![image](https://user-images.githubusercontent.com/53347740/189551960-ed8da511-f9c6-4c69-8110-0ee51430a90f.png)
 
 
 1. PCB repeated shock trials
