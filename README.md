@@ -22,7 +22,7 @@ This work is licensed under a
 Cite as:
 
 @Misc{Downey2022Dataset5Extended,   
-  author = {Austin Downey, Jacob Dodson, Alex Vereen, Joud Satme and Chris Nelson},   
+  author = {Austin Downey and Jacob Dodson and Alex Vereen and Joud Satme and Chris Nelson},   
   howpublished = {GitHub},  
   title  = {Dataset-5-Extended-Impact-Testing},   
   year   = {2022},  
