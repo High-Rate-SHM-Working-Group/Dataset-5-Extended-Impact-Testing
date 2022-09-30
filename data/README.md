@@ -3,3 +3,6 @@ This folder contains the collected datasets
 
 ## dataset-1
 A fixed-fixed cantilever beam subjected to repeated loading
+
+## dataset-1
+A circular PCB with a BGA component subjected to repeated loading
