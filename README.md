@@ -1,11 +1,12 @@
 # Dataset-5-Extended-Impact-Testing
 
 
+![experimental Setup](https://github.com/High-Rate-SHM-Working-Group/Dataset-5-Extended-Impact-Testing/assets/53347740/0c63298f-e8bf-462e-9241-cfb31f0cd4fd)
+Experimental setup electronic component Survivability Under Repeated Shock
 
 
-
-
-
+![DataSet](https://github.com/High-Rate-SHM-Working-Group/Dataset-5-Extended-Impact-Testing/assets/53347740/95611dc1-5478-4cc2-a1b1-1980cc20408f)
+PCB response to impact in time and frequency domains
 
 ## Licensing and Citation
 
@@ -29,8 +30,6 @@ Cite as:
   groups = {{ARTS-L}ab},    
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-5-Extended-Impact-Testing},    
 }
-
-
 
 
 
