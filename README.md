@@ -1,5 +1,6 @@
 # Dataset-5-Extended-Impact-Testing
 
+A dataset that looks at PCB over successive impacts and measures impedance between impacts to quantify damage.
 
 ![experimental Setup](https://github.com/High-Rate-SHM-Working-Group/Dataset-5-Extended-Impact-Testing/assets/53347740/0c63298f-e8bf-462e-9241-cfb31f0cd4fd)
 Experimental setup for electronic component survivability under repeated shock
