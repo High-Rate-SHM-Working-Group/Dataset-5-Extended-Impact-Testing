@@ -26,7 +26,7 @@ Cite as:
 @Misc{Downey2022Dataset5Extended,   
   author = {Austin Downey and Jacob Dodson and Alex Vereen and Joud Satme and Chris Nelson},   
   howpublished = {GitHub},  
-  title  = {Dataset-5-Extended-Impact-Testing},   
+  title  = {Dataset-5 Extended Impact Testing},   
   year   = {2022},  
   groups = {{ARTS-L}ab},    
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-5-Extended-Impact-Testing},    
